@@ -1,0 +1,81 @@
+﻿# Windows home directory
+AppData/
+Desktop/
+Documents/
+Downloads/
+Music/
+Pictures/
+Videos/
+Contacts/
+Favorites/
+Links/
+Searches/
+Saved Games/
+3D Objects/
+TOSHIBA/
+MicrosoftEdgeBackups/
+OneDrive/
+OneDrive - Lesley University/
+
+# Dev/project folders unrelated to FYD
+anaconda4/
+anaconda_projects/
+flutter/
+git/
+lambda-backup/
+platform/
+pluswellbeing-dashboard/
+pwb-patient-app/
+python/
+analytics-app/
+documentation/
+Finance_Models/
+
+# Dot folders
+.anaconda/
+.aws/
+.cache/
+.cdk/
+.claude/
+.claude.json
+.conda/
+.condarc
+.config/
+.continuum/
+.copilot/
+.eclipse/
+.gitconfig
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.keras/
+.lesshst
+.local/
+.m2/
+.matplotlib/
+.p2/
+.ssh/
+.viminfo
+.vscode/
+.vscode-shared/
+
+# Windows system files
+NTUSER.DAT*
+ntuser.*
+desktop.ini
+notepad
+tracker.prefs
+requests_layer.zip
+
+# OneDrive - Wentworth (keep only FYD)
+OneDrive - Wentworth Institute of Technology/*
+!OneDrive - Wentworth Institute of Technology/FYD
+
+# FYD exclusions
+OneDrive - Wentworth Institute of Technology/FYD/Sources/
+OneDrive - Wentworth Institute of Technology/FYD/Summarys/intial_data_pipeline.py
+__pycache__/
+*.pyc
+
+# Python/Jupyter clutter at root
+*.log
